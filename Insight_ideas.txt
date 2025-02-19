@@ -1,0 +1,8 @@
+Liste d'insight à explorer :
+- stock with the best return rate
+- insight liés à la correlation entre les stocks
+- insight temporel (ex: trouver la peak/pire period pour la valeur d'un stock)
+- insight daily return : chercher les périodes avec la plus haute augmentation journalière de l'action
+- insight high & low : sur une période donnée, calculer la variation maximum entre high & low ; faire un classement des stocks (permet de savoir quel stock varie le plus sur la période)
+
+
